@@ -1,3 +1,5 @@
+#Hartree_Fock_Gaussian
+
 This repo shows 10 Fortran files which implement the self-consistent solution of
 the Hartre-Fock secular equation (or Roothaan-Halls eqs) in the basis of Gaussian type orbitals.
 
@@ -14,3 +16,5 @@ _prompt> make abmol_
 To run the code, use a file from the inputs directory. e.g.:
 
 _prompt> abmol inputs/CH4_631.au_
+
+To find out more about the code and methods used please see the PDF document HartreeFock.pdf.
