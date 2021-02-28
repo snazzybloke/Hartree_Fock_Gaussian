@@ -9,8 +9,8 @@ To compile the code, customize the variables in the Makefile and type,
 place the libnag.a in a suitable directory (and/or change the "-L/... -lnag" flag appopriately)
 and type:
 
-prompt> make abmol
+_prompt> make abmol_
 
 To run the code, use a file from the inputs directory. e.g.:
 
-prompt> abmol inputs/CH4_631.au
+_prompt> abmol inputs/CH4_631.au_
