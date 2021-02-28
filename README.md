@@ -1,4 +1,4 @@
-#Hartree_Fock_Gaussian
+# Hartree_Fock_Gaussian
 
 This repo shows 10 Fortran files which implement the self-consistent solution of
 the Hartre-Fock secular equation (or Roothaan-Halls eqs) in the basis of Gaussian type orbitals.
